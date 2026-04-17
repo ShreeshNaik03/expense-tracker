@@ -31,9 +31,6 @@ expense-tracker/
 1. Download or clone the repository
 2. Open index.html in browser
 
-## GitHub Repository Clone
-
-git clone your-repository-link
 
 ## Future Improvements
 
@@ -49,4 +46,4 @@ This project is built to practice frontend development, local storage handling, 
 
 ## Author
 
-Shantaram S Divgi
+Shreesh S naik
