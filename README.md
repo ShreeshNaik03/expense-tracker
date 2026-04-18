@@ -1,6 +1,6 @@
 # Smart Expense Tracker with Visual Analytics
 
-A simple web-based expense tracking application that helps users record daily expenses, monitor spending habits, and visualize category-wise expenditure using charts.
+A simple web-based expense tracking application designed to help users record daily expenses, monitor spending habits, and analyze category-wise expenditure through visual charts.
 
 ## Features
 
@@ -8,8 +8,8 @@ A simple web-based expense tracking application that helps users record daily ex
 * Automatically calculate total expenses
 * Store expense data using browser localStorage
 * Delete expenses instantly
-* View category-wise expense distribution using chart visualization
-* Responsive and simple user interface
+* Visualize expenses category-wise using charts
+* Responsive and clean user interface
 
 ## Technologies Used
 
@@ -20,30 +20,31 @@ A simple web-based expense tracking application that helps users record daily ex
 
 ## Project Structure
 
+```plaintext
 expense-tracker/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
+```
 
 ## How to Run
 
-1. Download or clone the repository
-2. Open index.html in browser
-
+1. Clone or download the repository
+2. Open `index.html` in any web browser
 
 ## Future Improvements
 
-* Monthly expense filter
-* Export expense report
+* Monthly expense filtering
+* Export expense reports
 * Budget alert system
-* Dark mode
-* Login authentication
+* Dark mode support
+* User login authentication
 
 ## Project Purpose
 
-This project is built to practice frontend development, local storage handling, and basic data visualization.
+This project was developed to practice frontend development, browser localStorage handling, and basic data visualization techniques.
 
 ## Author
 
-Shreesh S naik
+Shreesh S Naik
